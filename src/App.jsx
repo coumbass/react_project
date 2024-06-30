@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar } from "./components/Navbar";
 import FirstSreen from "./components/FirstSreen";
-import  BrowserRouter, Route, Routes  from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Connexion } from "./pages/auth/Connexion";
 
 import { Inscription } from "./pages/auth/Inscription";
